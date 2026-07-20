@@ -1,0 +1,11 @@
+Order ID,Customer Name,Country,Amount,Exchange Rate,Order Date
+1001,Ram,India,1200,0.012,2026-01-10
+1002,Sita,India,2500,0.012,2026-01-12
+1003,John,USA,300,1.00,2026-01-15
+1004,Sarah,UK,450,1.28,2026-01-18
+1005,Ravi,India,,0.012,2026-01-20
+1006,Priya,India,1800,0.012,
+1007,David,USA,800,1.00,2026-01-25
+1008,Anjali,India,1500,0.012,2026-01-28
+1009,Ramesh,India,2200,0.012,2026-02-01
+1010,Emma,UK,500,1.28,2026-02-05
